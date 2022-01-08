@@ -1,9 +1,9 @@
 import { Container } from "./style";
 
-export function Display() {
+export function Buttons() {
   return (
-    <Container className="display">
-      
+    <Container>
+      botões
     </Container>
   )
 }

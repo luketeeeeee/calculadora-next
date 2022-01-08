@@ -1,15 +1,14 @@
+import { Buttons } from '../Buttons';
 import { Display } from '../Display';
 import { Container } from './style';
 
 export function Calculator() {
   return (
-    <div>
       <Container>
-        <Display />
-        <div className='buttons'>
-          
+        <div className='main-container'>
+          <Display />
+          <Buttons />
         </div>
       </Container>
-    </div>
   )
 }
