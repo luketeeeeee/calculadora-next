@@ -1,9 +1,13 @@
 import { Container } from "./style";
 
-export function Display() {
+type DisplayProps = {
+  displayValue: string;
+}
+
+export function Display(props: DisplayProps) {
   return (
     <Container className="display">
-      
+      {props.displayValue}
     </Container>
   )
 }

@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  height: 4rem;
-  padding: 1rem;
-  margin: auto;
+  height: 5rem;
+  padding: 1.5rem 1rem 1rem;
+  margin-bottom: 2rem;
   background: var(--gray);
   text-align: right;
   line-height: 1;
