@@ -5,4 +5,5 @@ O principal motivo para eu ter usado NextJS e TypeScript nessa aplicação é o 
 Seguem abaixo algumas prints do resultado "final", pois ainda não conclui a funcionalidade de alternar o sinal do número (botão "+/-").
 
 ### Imagens
-![image](https://user-images.githubusercontent.com/72895317/149645839-48461e03-98af-459d-a966-7720e6dc8738.png)
+![image](https://user-images.githubusercontent.com/72895317/149645857-68d46698-85a5-4a88-83ae-a8e582f6f092.png)
+![appcalculadora](https://user-images.githubusercontent.com/72895317/149646060-d6c648fb-f64a-46e2-b7fd-dfaf95a625b3.gif)
