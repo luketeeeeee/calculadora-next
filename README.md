@@ -6,4 +6,6 @@ Seguem abaixo algumas prints do resultado "final", pois ainda não conclui a fun
 
 ### Imagens
 ![image](https://user-images.githubusercontent.com/72895317/149645857-68d46698-85a5-4a88-83ae-a8e582f6f092.png)
+
+### Funcionamento
 ![app-calculadora-gif](https://user-images.githubusercontent.com/72895317/149646113-2de22438-259e-41b7-869a-dd6c82fa3c01.gif)
